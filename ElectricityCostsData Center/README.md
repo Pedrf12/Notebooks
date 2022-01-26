@@ -14,7 +14,7 @@ I've made some visualizations, calculated hypothesis testing and created a model
   - Also an extra fee for Sundays and Mondays.
 
 
-This is the information I had. 
+## This is the information I had. (and the .csv file) 
 
 ## Project Brief
 
