@@ -21,3 +21,5 @@ Dataset has 1615 rows and 7 columns. Keys for columns:
 "champagne" - sale of champagne in litres by year per capita
 
 "brandy" - sale of brandy in litres by year per capita
+
+*Click on* "`AlcoholConsumptionInRussia.ipynb`" to see the notebook. 
